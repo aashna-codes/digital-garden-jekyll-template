@@ -23,4 +23,3 @@ Finally, you can display images using Markdown syntax, like this:
 ![]({{page.image}})
 
 
-{% include notes_graph.html %}

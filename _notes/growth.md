@@ -16,4 +16,3 @@ i will see you bloom
  
 
 
-{% include notes_graph.html %}
