@@ -1,19 +1,19 @@
 ---
-title: my first note
+title: wonder
 image: /assets/image.jpg
 ---
-
-### wonder 
+ 
 no i cannot know  
 how liberating it would feel  
 in a world of immeasurable peace  
 or how an aching heart heals  
   
 *i can only wonder*
-
-
-
-i too often wonder what's [true](/truth){: .internal-link}. 
+  
+  
+  
+  
+and often i  wonder what's [true](/truth){: .internal-link}, do you?  
 
 
 ### Images
