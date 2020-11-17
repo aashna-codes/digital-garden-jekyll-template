@@ -9,7 +9,7 @@ permalink: /
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  here is my  <span style="font-weight: bold">[[very first note]]</span>. let's get started!
 </p>
 
 step inside the mind of [incendiary](https://incendiary.wordpress.com).

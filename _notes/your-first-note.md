@@ -1,11 +1,17 @@
 ---
-title: Your first seed
+title: my first seed of thought
 image: /assets/image.jpg
 ---
 
-### Welcome!
+### wonder 
+no i cannot know 
+how liberating it would feel 
+in a world of immeasurable peace 
+or how an aching heart heals 
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
+*i can only wonder*
+
+
 
 ### Link syntax
 
