@@ -11,3 +11,6 @@ in
 
 
 do you [wonder](/wonder){: .internal-link} if that's the [truth](/truth){: .internal-link}? i do. 
+
+
+{% include notes_graph.html %}

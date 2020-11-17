@@ -13,4 +13,7 @@ i do not fear;
 i will see you bloom  
 
 
- [first note](/your-first-note){: .internal-link}.
+ 
+
+
+{% include notes_graph.html %}
