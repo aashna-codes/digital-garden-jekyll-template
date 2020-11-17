@@ -1,5 +1,5 @@
 ---
-title: my first note: a *seed of thought*
+title: my first note
 image: /assets/image.jpg
 ---
 
@@ -11,7 +11,7 @@ or how an aching heart heals
   
 *i can only wonder*
 
-
+test links 
 
 ### Link syntax
 
