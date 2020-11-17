@@ -1,5 +1,5 @@
 ---
-title: my first seed of thought
+title: my first note: a *seed of thought*
 image: /assets/image.jpg
 ---
 
