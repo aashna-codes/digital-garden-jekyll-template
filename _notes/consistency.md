@@ -1,7 +1,16 @@
 ---
-title: Consistency is key
+title: growth
 ---
 
-Show up. Do the work. Be consistent.
+all the days  
+will be worth the wait   
+my dear;  
+you are a blossoming bud  <br/>
 
-Then go take a look at the [first note](/your-first-note){: .internal-link}.
+with the melody  
+of [truth](/truth){:. internal-link} in your earth  
+i do not fear;  
+i will see you bloom  
+
+
+ [first note](/your-first-note){: .internal-link}.
