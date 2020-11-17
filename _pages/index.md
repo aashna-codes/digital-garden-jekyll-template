@@ -9,7 +9,7 @@ permalink: /
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  here is my  <span style="font-weight: bold">[[very first note]]</span>. let's get started!
+  here is my  <span style="font-weight: bold">[[very first note]](https://digital-garden-aashna.netlify.app/your-first-note)</span>. let's get started!
 </p>
 
 step inside the mind of [incendiary](https://incendiary.wordpress.com).
