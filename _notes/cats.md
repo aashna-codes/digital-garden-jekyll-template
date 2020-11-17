@@ -1,8 +1,6 @@
 ---
 title: truth
----
-
-# truth 
+--- 
 
 i like to believe  
 that there is truth  
