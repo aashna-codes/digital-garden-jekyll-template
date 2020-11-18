@@ -8,7 +8,7 @@ my dear;
 you are a blossoming bud  <br/>
 
 with the melody  
-of [truth](/truth){:. internal-link} in your earth  
+of [truth](/truth){:. internal-link} in your [earth](/earth){:. internal-link}  
 i do not fear;  
 i will see you bloom  
 
