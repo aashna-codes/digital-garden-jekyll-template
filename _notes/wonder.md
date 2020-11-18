@@ -13,7 +13,7 @@ or how an aching heart heals
   
   
   
-and often i  wonder what's [true](/truth){: .internal-link}, do you?  
+and often i  wonder what's [true](/truth){:. internal-link}, do you?  
 
 
 ### Images
