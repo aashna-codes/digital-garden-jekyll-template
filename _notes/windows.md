@@ -8,6 +8,6 @@ across mighty mountain ranges
 at the first scent of monsoon  
 <br/>
 i wonder beyond the windowsill  
-through joy, love and sorrow 
+through joy, love and sorrow  
 high above the sky among the stars  
 somewhere over the rainbow  
