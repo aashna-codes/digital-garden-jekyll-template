@@ -9,5 +9,5 @@ at the first scent of monsoon
 <br/>
 i wonder beyond the windowsill  
 through joy, love and sorrow  
-high above the sky among the stars  
+among the stars, above the sky  
 somewhere over the rainbow  
