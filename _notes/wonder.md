@@ -20,6 +20,6 @@ and often i  wonder what's [true](/truth){:. internal-link}, do you?
 
 Finally, you can display images using Markdown syntax, like this:
 
-![]({{page.fireplace}})
+![]({{fireplace.jpeg}})
 
 
