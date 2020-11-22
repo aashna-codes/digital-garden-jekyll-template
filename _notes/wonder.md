@@ -2,7 +2,7 @@
 title: wonder
 image: /assets/image.jpg
 ---
-<img src="fireplace.jpeg" width="200">
+<img align="left" src="fireplace.jpeg" width="250">
 
  
 no i cannot know  
