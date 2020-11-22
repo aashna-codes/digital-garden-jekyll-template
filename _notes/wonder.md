@@ -4,7 +4,7 @@ image: /assets/image.jpg
 ---
 <img align="left" src="fireplace.jpeg" width="250">
 
- 
+<br/>
 no i cannot know  
 how liberating it would feel  
 in a [world](/earth){:. internal-link} of immeasurable peace  
