@@ -2,8 +2,8 @@
 title: wonder
 image: /assets/image.jpg
 ---
-<img src="fireplace.jpeg" width="75">
-![](fireplace.jpeg =75x)
+<img src="fireplace.jpeg" width="200">
+
  
 no i cannot know  
 how liberating it would feel  
