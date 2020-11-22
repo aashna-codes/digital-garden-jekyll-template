@@ -9,17 +9,9 @@ in a [world](/earth){:. internal-link} of immeasurable peace
 or how an aching heart heals  
   
 *i can only wonder*
-  
-  
-  
-  
+    
 and often i  wonder what's [true](/truth){:. internal-link}, do you?  
 
-
-### Images
-
-Finally, you can display images using Markdown syntax, like this:
-
-![]({{fireplace.jpeg}})
+![](fireplace.jpeg)
 
 
