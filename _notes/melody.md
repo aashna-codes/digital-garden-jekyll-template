@@ -2,7 +2,7 @@
 title: melody
 ---
 
-when sunlight pours herself through my [window](/windowsill){:. internal-link} glass  
+when sunlight pours herself through my [window](/windowsillh){:. internal-link} glass  
 i hear poetry the way it was meant to be heard  
 i notice i don't mind if the voice speaks too fast  
 i don't mind if it speaks too slow too narrow or too vast  
