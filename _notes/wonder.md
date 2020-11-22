@@ -3,7 +3,7 @@ title: wonder
 image: /assets/image.jpg
 ---
 
-![](fireplace.jpeg)
+![](fireplace.jpeg =75x)
  
 no i cannot know  
 how liberating it would feel  
