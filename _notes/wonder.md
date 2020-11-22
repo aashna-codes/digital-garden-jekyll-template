@@ -2,6 +2,8 @@
 title: wonder
 image: /assets/image.jpg
 ---
+
+![](fireplace.jpeg)
  
 no i cannot know  
 how liberating it would feel  
@@ -12,6 +14,5 @@ or how an aching heart heals
     
 and often i  wonder what's [true](/truth){:. internal-link}, do you?  
 
-![](fireplace.jpeg)
 
 
