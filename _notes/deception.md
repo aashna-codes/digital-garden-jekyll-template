@@ -2,6 +2,8 @@
 title: deception
 ---
 
+<img src="gondola.jpeg" width="250">
+
 hold your breath steady  
 words have never mattered  
 more  <br/>
