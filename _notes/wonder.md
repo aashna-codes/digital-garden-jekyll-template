@@ -2,7 +2,7 @@
 title: wonder
 image: /assets/image.jpg
 ---
-
+<img src="fireplace.jpeg" width="75">
 ![](fireplace.jpeg =75x)
  
 no i cannot know  
