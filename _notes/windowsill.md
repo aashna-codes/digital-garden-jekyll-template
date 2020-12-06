@@ -2,7 +2,6 @@
 title: windowsill
 ---
 
-<img src="window.jpeg" width="250">
 
 i [wonder](/wonder){:. internal-link} beyond the windowsill  
 on the dark side of the moon  
