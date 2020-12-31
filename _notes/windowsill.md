@@ -11,4 +11,4 @@ at the first scent of monsoon
 i wonder beyond the windowsill  
 through joy, love and sorrow  
 among the stars, above the sky  
-somewhere over the rainbow  
+i wonder about tomorrow    
