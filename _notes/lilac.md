@@ -10,4 +10,4 @@ and capture a moment while it was young
 i held on to this moment a moment too long  
 until it begged to be let go  
 it was then that i realised i decide  
-what i will bring with me to my tomorrow  
+what i bring with me to my tomorrow  
