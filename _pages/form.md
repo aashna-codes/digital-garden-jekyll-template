@@ -22,7 +22,7 @@ permalink: /contact
 
 <form name="contact2" method="POST" data-netlify="true">
   <p>
-     <input type="text" name="name" />  
+     <input type="text" name="name" placeholder="name"/>  
   </p>
   <p>
     <label> email id: <input type="email" name="email" /></label>
