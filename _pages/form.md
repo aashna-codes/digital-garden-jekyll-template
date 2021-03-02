@@ -5,6 +5,9 @@ permalink: /contact
 
 ---
 
+### contact
+i'd love to hear what you thought of my digital garden! ideas, suggestions, requests are welcome! 
+
 <form name="contact" method="POST" data-netlify="true">
   <p>
      <input type="text" name="name" placeholder="name"/>  
