@@ -19,3 +19,18 @@ permalink: /contact
     <button type="submit"> send </button>
   </p>
 </form>
+
+<form name="contact2" method="POST" data-netlify="true">
+  <p>
+     <input type="text" name="name" />  
+  </p>
+  <p>
+    <label> email id: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label> message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit"> send </button>
+  </p>
+</form>
