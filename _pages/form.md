@@ -25,10 +25,10 @@ permalink: /contact
      <input type="text" name="name" placeholder="name"/>  
   </p>
   <p>
-    <label> email id: <input type="email" name="email" /></label>
+    <input type="email" name="email" placeholder="email"/>
   </p>
   <p>
-    <label> message: <textarea name="message"></textarea></label>
+    <textarea name="message" placeholder="message"></textarea>
   </p>
   <p>
     <button type="submit"> send </button>
