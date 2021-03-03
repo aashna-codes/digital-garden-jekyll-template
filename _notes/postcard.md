@@ -11,7 +11,7 @@ it's only love - vicki brittle
     <figcaption>Listen to the T-Rex:</figcaption>
     <audio
         controls
-        src="Macintosh HD/Users/aashnamajmudar/my-digital-garden/songs/ItsOnlyLove.mp3">
+        src="/songs/ItsOnlyLove.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
