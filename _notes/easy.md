@@ -22,6 +22,6 @@ fools (can't help falling in love) - foster
     </audio>
 </figure>
 
-[more playlist](/playlists){:. internal-link}  
+[more playlists](/playlists){:. internal-link}  
 
 
