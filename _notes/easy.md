@@ -1,5 +1,5 @@
 ---
-title: playlist/take it easy
+title: take it easy
 ---
 
 everyday - a$ap rocky  

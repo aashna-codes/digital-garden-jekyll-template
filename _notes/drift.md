@@ -1,5 +1,5 @@
 ---
-title: playlist/drift
+title: drift
 ---
 
 go solo - tom rosenthal  
