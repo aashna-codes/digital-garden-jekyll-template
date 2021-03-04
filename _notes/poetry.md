@@ -11,5 +11,5 @@ poems that i hold close
 [if-, rudyard kipling](/if){:. internal-link}  
 [abou ben adhem, leigh hunt](/abou){:. internal-link}  
 [people, charlotte zolotow](/people){:. internal-link}
-[mattino, giuseppe ungaretti](/mattino){:. internal-link}
-[hazaron khwahishen aisi, mirza ghalib](/khwahish){:. internal-link}
+[mattino, giuseppe ungaretti](/mattino){:. internal-link}  
+[hazaron khwahishen aisi, mirza ghalib](/khwahish){:. internal-link}  
