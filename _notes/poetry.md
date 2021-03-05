@@ -13,3 +13,6 @@ poems that i hold close
 [people, charlotte zolotow](/people){:. internal-link}  
 [mattino, giuseppe ungaretti](/mattino){:. internal-link}  
 [hazaron khwahishen aisi, mirza ghalib](/khwahish){:. internal-link}  
+[if tomorrow starts without me, david romano](/tomorrow){:. internal-link}  
+[do not go gentle into that good night, dylan thomas](/donotgogentle){:. internal-link}  
+
