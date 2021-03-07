@@ -1,5 +1,5 @@
 ---
-title: friends
+title: friend
 ---
 
 if [you](/you){:. internal-link} are here  
