@@ -23,4 +23,4 @@ and this is the wonder that's keeping the stars apart
 i carry your heart(i carry it in my heart)  
 
 
-more [poetry](/poetry){.: interal-link}
+more [poetry](/poetry){.: internal-link}
