@@ -8,9 +8,13 @@ by mirza ghalib
 बहुत निकले मेरे अरमान,  
 लेकिन फिर भी कम निकले  
 
-[rough translation:  
+[rough translation* :  
 i have a thousand wishes,  
 each is worth a lifetime;  
 so many have been fullfilled  
-and yet not nearly enough have been fulfilled.] 
+and yet not nearly enough have been fulfilled.]  
 
+* as my dad says, urdu often doesn't translate well into english  
+and some day i will regret not learning it  
+
+more [poetry](/poetry){:. internal-link}

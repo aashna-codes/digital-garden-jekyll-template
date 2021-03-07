@@ -43,3 +43,5 @@ So won't you come and take my hand and share my life with me?"
 So if tomorrow starts without me, don't think we're far apart,  
 for every time you think of me, please know I'm in your heart.  
 
+
+more [poetry](/poetry){:. internal-link}

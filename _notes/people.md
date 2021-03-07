@@ -12,3 +12,6 @@ Some people laugh and laugh
 and yet you want to cry.  
 Some people touch your hand  
 and music fills the sky.  
+
+
+more [poetry](/poetry){:. internal-link}

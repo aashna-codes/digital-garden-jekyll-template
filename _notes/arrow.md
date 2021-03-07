@@ -18,3 +18,6 @@ Long, long afterward, in an oak
 I found the arrow, still unbroke;  
 And the song, from beginning to end,  
 I found again in the heart of a friend.  
+
+
+more [poetry](/poetry){:. internal-link}

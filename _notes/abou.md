@@ -22,3 +22,6 @@ The angel wrote, and vanished. The next night
 It came again with a great wakening light,  
 And showed the names whom love of God had blest,  
 And lo! Ben Adhem's name led all the rest. 
+
+
+more [poetry](/poetry){:. internal-link}
