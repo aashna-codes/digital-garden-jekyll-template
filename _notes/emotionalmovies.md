@@ -1,0 +1,6 @@
+---
+title: emotional
+---
+
+collateral beauty  
+
